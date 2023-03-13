@@ -1,0 +1,5 @@
+{
+    version: "1.0",
+    url: "https://gist.github.com/xalagor/b0c6b9b551b691d97327278d38a893bd/raw/dark-theme.ps1",
+    bin: "dark-theme.ps1"
+}
